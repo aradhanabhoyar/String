@@ -1,4 +1,4 @@
-### output of Reverse or negative string ###
+### output of Reverse or negative indexing ###
 m
 ram
 gram
